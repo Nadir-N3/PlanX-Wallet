@@ -41,7 +41,7 @@ PlanX-Wallet/
 - **Node.js 18+** (or 20+)
 - **git**
 
-> If your scripts need extra Ruby gems or Node packages, install them once and re-run.
+> Scripts need extra Ruby gems or Node packages, install them once and re-run.
 
 ---
 
